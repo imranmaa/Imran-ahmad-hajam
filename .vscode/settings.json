@@ -1,3 +1,11 @@
 {
-    "dotnet.defaultSolution": "SampleApp/SampleApp.sln"
+    "dotnet.defaultSolution": "SampleApp/SampleApp.sln",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "on",
+    "editor.autoClosingQuotes": "beforeWhitespace",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.suggest.completeFunctionCalls": true
 }
